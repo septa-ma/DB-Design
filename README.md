@@ -17,6 +17,12 @@ learning and improveing database design
     - Chapter 9: Common Design Patterns
     - Chapter 10: Common Design Pitfalls
 
-- **Part 3: Advanced Topics**
-    - Chapter 11: Database Maintenance
-    - Chapter 12: Database Security
+- **Part 3: A Detailed Case Study**
+    - Chapter 11: User Needs and Requirements
+    - Chapter 12: Building a Data Model
+    - Chapter 13: Extracting Business Rules
+    - Chapter 14: Normalization and Renement
+
+- **Part 4: Advanced Topics**
+    - Chapter 15: Database Maintenance
+    - Chapter 16: Database Security
