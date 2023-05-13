@@ -1,5 +1,4 @@
 # DB-Design
-learning and improveing database design
 
 **this is my summery of the "Beginning Database Design Solutions" book.**
 
@@ -17,12 +16,12 @@ learning and improveing database design
     - Chapter 9: Common Design Patterns
     - Chapter 10: Common Design Pitfalls
 
-- **Part 3: A Detailed Case Study**
+- **Part 3: A Detailed Case Study:**
     - Chapter 11: User Needs and Requirements
     - Chapter 12: Building a Data Model
     - Chapter 13: Extracting Business Rules
     - Chapter 14: Normalization and Refinement
 
-- **Part 4: Advanced Topics**
+- **Part 4: Advanced Topics:**
     - Chapter 15: Database Maintenance
     - Chapter 16: Database Security
