@@ -21,7 +21,7 @@ learning and improveing database design
     - Chapter 11: User Needs and Requirements
     - Chapter 12: Building a Data Model
     - Chapter 13: Extracting Business Rules
-    - Chapter 14: Normalization and Renement
+    - Chapter 14: Normalization and Refinement
 
 - **Part 4: Advanced Topics**
     - Chapter 15: Database Maintenance
