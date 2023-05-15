@@ -10,11 +10,9 @@
         - What should the system do?
         - Why are you building this system? What do you hope it will accomplish?
         - What should it look like? Sketch out the user interface.
-        - What response times do you need for different parts of the system? (Typically, interactive
-        response times should be under five seconds, whereas reports and other offline activities may
-        take longer.)
+        - What response times do you need for different parts of the system? (Typically, interactive response times should be under five seconds, whereas reports and other offline activities may take longer.)
         - What reports are needed?
-        - Do the end users need to be able to dene new reports?
+        - Do the end users need to be able to define new reports?
         - Who are the players? (ties to previous section)
         - Do power users and administrators need to be able to desine new reports?
 
