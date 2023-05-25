@@ -3,7 +3,7 @@
 **Designing any custom product, whether it’s a database, beach house or so on, is largely a translation process.**
 > The first step in the translation process is understanding the user’s requirements.
 
-# Make a Plan:
+## Make a Plan:
 - **0- Bring a List of Questions:**
     > thinking of questions to ask the customers to get a better idea of the project’s goals and scope.
     - `Functionality` -> ***what the system is supposed to accomplish***
@@ -92,7 +92,7 @@
     - 
     - 
 
-# Learn What the Customers Really Need:
+## Learn What the Customers Really Need:
 
 - 1- Prioritize
     - 
