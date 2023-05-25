@@ -5,7 +5,7 @@
 
 # Make a Plan:
 - **0- Bring a List of Questions:**
-- **thinking of questions to ask the customers to get a better idea of the project’s goals and scope.**
+- > thinking of questions to ask the customers to get a better idea of the project’s goals and scope.
     - `Functionality` -> ***what the system is supposed to accomplish***
         - What should the system do?
         - Why are you building this system? What do you hope it will accomplish?
@@ -69,7 +69,7 @@
     
 
 - **2- Pick the Customers’ Brains:**
-    - Sit down with the Customer Champion and find out what the customers think they need.
+    - > Sit down with the Customer Champion and find out what the customers think they need.
     - 
 
 - **3- Walk a Mile in the User’s Shoes:**
