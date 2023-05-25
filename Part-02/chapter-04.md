@@ -6,7 +6,7 @@
 ## Make a Plan:
 - **0- Bring a List of Questions:**
     > thinking of questions to ask the customers to get a better idea of the project’s goals and scope.
-    - `Functionality` -> ***what the system is supposed to accomplish***
+    - `Functionality`: ***what the system is supposed to accomplish***
         - What should the system do?
         - Why are you building this system? What do you hope it will accomplish?
         - What should it look like? Sketch out the user interface.
@@ -16,13 +16,13 @@
         - Who are the players? (ties to previous section)
         - Do power users and administrators need to be able to desine new reports?
 
-    - `Data Needs` -> ***Knowing what data is needed will help you start defining the database’s tables.***
+    - `Data Needs`: ***Knowing what data is needed will help you start defining the database’s tables.***
         - What data is needed for the user interface?
         - Where should that data come from?
         - How are those pieces of data related?
         - How are these tasks handled today? Where does the data come from?
 
-    - `Data Integrity` -> ***They help you define some of the integrity constraints that you will build into the database.***
+    - `Data Integrity`: ***They help you define some of the integrity constraints that you will build into the database.***
         - What values are allowed in which fields?
         - Which fields are required? (For example, does a customer record need a phone number? A fax number? An email address? One of those but not all of them?)
         - What are the valid domains (allowed values) for various fields? What phone number formats are allowed? How long can customer names be? Addresses? Do addresses need extra lines for suite or apartment number? Do addresses need to handle U.S. ZIP Codes such as 12345? ZIP+4 Codes such as 12345-6789? Canadian postal codes such as T1A 6G9? Or other countries’ postal codes?
@@ -38,7 +38,7 @@
             - How quickly do you need to be back up and running?
             - How painful will it be if you lose some data during a crash?
 
-    - `Security` -> ***The answers to these questions will help you decide which database product will work best and what architecture to use.***
+    - `Security`: ***The answers to these questions will help you decide which database product will work best and what architecture to use.***
         - Does each user need a separate password? (Generally a good idea.)
         - Do different users need access to different pieces of data? (For example, sales clerks might need to access customer credit card numbers but order fulfillment technicians probably don’t.)
         - Does the data need to be encrypted within the database?
