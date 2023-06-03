@@ -70,6 +70,7 @@
     - Sometimes you’ll find unexpected connections that may make your job easier or that may lead to surprising benefits in a completely unrelated area.
     - When you first meet the customers, it usually doesn’t hurt to warn them that you’re going to be a major pest for a while. This can also help you figure out who’s who. Those who are committed to the project and are eager to succeed will take your warning well. Those who are less than dedicated may tip their hands at this point. This idea leads naturally to the next section.
 
+
     > ***The following list describes some of the roles that customers (and developers) often play in a project.***
     
     - `Executive Champion`: This is the highest ranking customer driving the project. Often this person
