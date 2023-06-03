@@ -72,22 +72,22 @@
 
     **The following list describes some of the roles that customers (and developers) often play in a project.**
     
-    - Executive Champion: This is the highest ranking customer driving the project. Often this person
+    - `Executive Champion`: This is the highest ranking customer driving the project. Often this person
     doesn’t participate in the project’s day-to-day trials and tribulations. The Executive Champion
     will ght for truth, justice, and getting you that extra laptop you need. In the end, the Executive
     Champion must be able to take on any bored super villains or you might be in trouble.
-    - Customer Champion: This person has a thorough understanding of the customers’ needs. Lesser
+    - `Customer Champion`: This person has a thorough understanding of the customers’ needs. Lesser
     champions may help dene pieces of the project but this is the person you run to when the oth-
     ers are unclear. For the purposes of this chapter (‘‘Understanding User Needs’’), this is the most
     important person on the project. This person must have enough time and resources (also known
     as ‘‘people’’) to help you dene the project and answer your questions. Ideally this person also
     has enough clout to make decisions when the heroes start bickering over who has to ght Mag-
     neto and who gets to y the invisible plane.
-    - Customer Representative: A Customer Representative is someone assigned to answer your
+    - `Customer Representative`: A Customer Representative is someone assigned to answer your
     questions and help dene the project. Often these are people who do the day-to-day work of
     your customers’ business. Sometimes they are experts in only parts of the business so you need
     more than one to cover all of the issues.
-    - Stakeholder: This is anyone who has an interest in the project. Some of these fall into other cat-
+    - `Stakeholder`: This is anyone who has an interest in the project. Some of these fall into other cat-
     egories such as Customer Champion or Customer Representative. Others are affected by the
     outcome but have no direct say in the design of the system. For example, front-line clerks rarely
     get to toss in their two cents when you design a point-of-sales system. They are like the civil-
@@ -95,13 +95,13 @@
     debris and pieces of robot monsters. Though many of them have no direct power over the out-
     come, you should keep them in mind and try to minimize collateral damage. (In a really well-run
     company, these people have their own representatives to watch out for them.)
-    - Sidekick/Gopher: This is someone who can help you get the more mundane resources you need
+    - `Sidekick/Gopher`: This is someone who can help you get the more mundane resources you need
     such as conference rooms, airline tickets, donuts, and kryptonite. Though this isn’t a glamorous
     job, an effective Sidekick can make everything run more smoothly. (Sometimes they also pro-
     vide comic relief. On one project, the Sidekick invited everyone out to a huge celebratory lunch
     on him, only to nd that the restaurant didn’t take credit cards, so we all had to pitch in. In all
     fairness, though, it could have happened to any of us.)
-    - Short-Timer: This is someone who is only going to be around for a short while. This may be
+    - `Short-Timer`: This is someone who is only going to be around for a short while. This may be
     someone who is about to be promoted to a new division, who will retire soon, or who is just
     plain fed up and about to walk. A dedicated short-timer can be a huge asset, particularly those
     who are about to retire and take a lifetime’s worth of experience with them. Others don’t care all
@@ -109,14 +109,14 @@
     71Part II: Database Design Process and Techniques
     on Star Trek who don’t contribute much. When Kirk says, ‘‘Spock, Bones, and Smith, meet me in
     the transporter room,’’ guess who isn’t coming back?)
-    - Devil’s Advocate: This is an important role for avoiding groupthink. Left unchecked, some
+    - `Devil’s Advocate`: This is an important role for avoiding groupthink. Left unchecked, some
     groups become irrationally optimistic and can make extremely poor decisions. A Devil’s
     Advocate can help bring the hopeless dreamers back to earth and keep the project realistic...
     as long as the Devil’s Advocate doesn’t get out of hand. The purpose of the Devil’s Advocate
     is to maintain a reality check, not to defeat the entire project. If this person shoots down every
     idea anyone comes up with, you might gently mention that eventually you need to decide on an
     approach and get something done.
-    - Convert: This is someone who originally is against the project but who you convert to your
+    - `Convert`: This is someone who originally is against the project but who you convert to your
     cause. Strangely, both nding and converting this person are usually surprisingly easy, at least
     for bigger projects. If you talk to the disenfranchised stakeholders (the front-line users who have
     no say in the matter), you can usually nd some who are dead-set against the project, if for no
@@ -127,7 +127,7 @@
     you’ll win his loyalty. He’ll tell the rest of the Stakeholders and, if all goes well, you’ll have
     more support than you can imagine. And who knows, you may build a better product with this
     person’s input.
-    - Generic Bad Guy: These range from simple defeatists and layabouts to Arch Super Villains
+    - `Generic Bad Guy`: These range from simple defeatists and layabouts to Arch Super Villains
     actively trying to sabotage the project. Try to identify these people early so you know what
     you’re up against. (On one project, we had a super villain at the Vice Presidential level. We
     also had an Executive Champion at the same level, so we were able to hold our own, but it was
