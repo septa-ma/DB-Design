@@ -74,17 +74,17 @@
     
     - `Executive Champion`: This is the highest ranking customer driving the project. Often this person
     doesn’t participate in the project’s day-to-day trials and tribulations. The Executive Champion
-    will ght for truth, justice, and getting you that extra laptop you need. In the end, the Executive
+    will fight for truth, justice, and getting you that extra laptop you need. In the end, the Executive
     Champion must be able to take on any bored super villains or you might be in trouble.
     - `Customer Champion`: This person has a thorough understanding of the customers’ needs. Lesser
-    champions may help dene pieces of the project but this is the person you run to when the oth-
+    champions may help define pieces of the project but this is the person you run to when the oth-
     ers are unclear. For the purposes of this chapter (‘‘Understanding User Needs’’), this is the most
     important person on the project. This person must have enough time and resources (also known
-    as ‘‘people’’) to help you dene the project and answer your questions. Ideally this person also
-    has enough clout to make decisions when the heroes start bickering over who has to ght Mag-
-    neto and who gets to y the invisible plane.
+    as ‘‘people’’) to help you define the project and answer your questions. Ideally this person also
+    has enough clout to make decisions when the heroes start bickering over who has to fight Mag-
+    neto and who gets to fly the invisible plane.
     - `Customer Representative`: A Customer Representative is someone assigned to answer your
-    questions and help dene the project. Often these are people who do the day-to-day work of
+    questions and help define the project. Often these are people who do the day-to-day work of
     your customers’ business. Sometimes they are experts in only parts of the business so you need
     more than one to cover all of the issues.
     - `Stakeholder`: This is anyone who has an interest in the project. Some of these fall into other cat-
@@ -99,7 +99,7 @@
     such as conference rooms, airline tickets, donuts, and kryptonite. Though this isn’t a glamorous
     job, an effective Sidekick can make everything run more smoothly. (Sometimes they also pro-
     vide comic relief. On one project, the Sidekick invited everyone out to a huge celebratory lunch
-    on him, only to nd that the restaurant didn’t take credit cards, so we all had to pitch in. In all
+    on him, only to find that the restaurant didn’t take credit cards, so we all had to pitch in. In all
     fairness, though, it could have happened to any of us.)
     - `Short-Timer`: This is someone who is only going to be around for a short while. This may be
     someone who is about to be promoted to a new division, who will retire soon, or who is just
@@ -119,7 +119,7 @@
     - `Convert`: This is someone who originally is against the project but who you convert to your
     cause. Strangely, both nding and converting this person are usually surprisingly easy, at least
     for bigger projects. If you talk to the disenfranchised stakeholders (the front-line users who have
-    no say in the matter), you can usually nd some who are dead-set against the project, if for no
+    no say in the matter), you can usually find some who are dead-set against the project, if for no
     other reason than it represents a change from the way they have always worked. Take one of
     these people who has a fair amount of experience and make him a Stakeholder Representative.
     Get him involved early in the process and take his suggestions very seriously. If you act on
